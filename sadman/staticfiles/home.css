@@ -1,0 +1,109 @@
+body {
+    min-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+
+.container {
+    background-color: rgb(86, 59, 96);
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+
+
+}
+
+.sadman {
+    background-color: rgb(86, 59, 96);
+}
+
+h4 {
+    color: rgb(241, 187, 51)
+}
+
+.a {
+    background-color: white;
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    padding-left: 30%;
+    padding-top: 10px;
+    padding-bottom: 100px;
+
+}
+
+.h1 {
+
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+
+.p {
+
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 150px;
+    font-size: 20px;
+    color: rgb(215, 153, 76);
+   
+
+}
+
+
+.p1 {
+    padding-right: 80px;
+    text-align: center;
+}
+
+.s1 {
+    text-align: center;
+    padding-bottom: 150px;
+
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.f {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.h {
+    padding-left: 150px;
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: rgb(249, 181, 9)
+}
+
+
+
+ul li :hover {
+    color: rgb(59, 175, 224);
+    font-size: 15px;
+
+
+
+}
+
+ul li a {
+    color: black;
+    font-size: 20px;
+    margin-left: 35px;
+
+}
+
+.i {
+    font-size: 20px;
+    margin-left: 30px;
+    background-color: white;
+    border: none;
+
+
+
+}

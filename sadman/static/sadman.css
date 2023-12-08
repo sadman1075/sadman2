@@ -1,0 +1,102 @@
+.h {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    background-color: white;
+    padding-left: 150px;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: rgb(249, 181, 9);
+
+
+
+
+}
+
+ul li :hover {
+    color: rgb(59, 175, 224);
+    font-size: 15px;
+
+
+}
+
+ul li a {
+    color: black;
+    font-size: 20px;
+    margin-left: 35px;
+
+}
+
+.sad {
+    text-align: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    background: url(waste3.jpg);
+    background-repeat: no-repeat;
+
+    background-size: 100%;
+
+
+
+}
+
+
+
+.sad {
+
+    position: relative;
+    width: 400px;
+    height: 340px;
+    background: transparent;
+    border: 2px solid black;
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    align-items: center;
+}
+
+.s {
+    background-color: rgb(135, 124, 178);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    height: 35px;
+    width: 270px;
+    border-radius: 10px;
+}
+
+.s:hover {
+    background-color: rgb(157, 127, 255);
+}
+
+input {
+    text-align: center;
+    height: 30px;
+    width: 270px;
+    border-radius: 10px;
+
+}
+
+h2 {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    font-size: 35px;
+
+}
